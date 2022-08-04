@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AwaneeshSoni
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C prgramming
+- 🌱 I’m currently programming.
+- 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a>
+
 
 <!---
 AwaneeshSoni/AwaneeshSoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
