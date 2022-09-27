@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AwaneeshSoni
-- 👀 I’m interested in Coding
+- 👀 I’m do React and JAVA.
 - 🌱 I’m currently programming.
 - 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a> 
 -  Also checkout  my <a href="https://twitter.com/Awaneesh_Soni"> Twitter</a> 
