@@ -4,7 +4,7 @@
 <h3>🌱 I’m currently programming. </h3>
 <h3> 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a>  </h3>
 <h3> Also checkout  my <a href="https://twitter.com/Awaneesh_Soni"> Twitter</a>  </h3>
-
+<h3> My Tech Stacks are : HTML, CSS, JAVASCRIPT, React and JAVA.</h3>
 <h1>Projcts: </h1>
 <a href="https://awaneeshsoni.github.io/airbnbclone/">AirBnB Clone</a>
 <p>Description: It is a clone of AirBnB website. It uses concepts of props in react and takes data from a given file and uploads it to the details dection. It also uses React 
