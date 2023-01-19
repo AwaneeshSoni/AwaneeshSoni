@@ -1,9 +1,9 @@
 <h1> 👋 Hi, I’m @AwaneeshSoni</h1>
 <hr>
--<h3>👀 I’m interested in Coding </h3>
-<h3>🌱 I’m currently programming. </h3>
-<h3> 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a>  </h3>
-<h3> Also checkout  my <a href="https://twitter.com/Awaneesh_Soni"> Twitter</a>  </h3>
+-<h6>👀 I’m interested in Coding </h6>
+<h6>🌱 I’m currently programming. </h6>
+<h6> 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a>  </h6>
+<h6> Also checkout  my <a href="https://twitter.com/Awaneesh_Soni"> Twitter</a>  </h6>
 <h3> My Tech Stacks are : HTML, CSS, JAVASCRIPT, React and JAVA.</h3>
 <h1>Projcts: </h1>
 <a href="https://awaneeshsoni.github.io/airbnbclone/">AirBnB Clone</a>
