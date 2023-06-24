@@ -6,7 +6,7 @@
 <h6> Also checkout  my <a href="https://twitter.com/Awaneesh_Soni"> Twitter</a>  </h6>
 <h6> My Tech Stacks are : </h6> <h3> HTML, CSS, JAVASCRIPT, React and JAVA.</h3>
 <h1>Projcts: </h1>
-<a href="(https://we-care-com-by-awaneesh-soni.vercel.app/)" >WeCare.com</a>
+<a href="https://we-care-com-by-awaneesh-soni.vercel.app/" >WeCare.com</a>
 <h6><p>This is the best website I have ever made. It allows you to wish someone on WhatsApp on special occasions. It uses React useEffect, React Router, useState, and more concepts. More importantly, I use a very rare react module, react-share, to add the WhatsApp messaging feature. </p></h6>
 <a href="https://awaneeshsoni.github.io/airbnbclone/">AirBnB Clone</a>
 <h6><p>Description: It is a clone of the AirBnB website. It uses concepts of props in react and takes data from a given file, and uploads it to the details section. It also uses React.useState </p> </h6>
