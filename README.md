@@ -4,7 +4,7 @@
 <h6>🌱 I’m currently programming. </h6>
 <h6> 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a>  </h6>
 <h6> Also checkout  my <a href="https://twitter.com/Awaneesh_Soni"> Twitter</a>  </h6>
-<h6> My Tech Stacks are : </h6> <h3> HTML, CSS, JAVASCRIPT, React and JAVA.</h3>
+<h6> My Tech Stacks are </h6> <h3> HTML, CSS, JAVASCRIPT, React.js, Node.js, Express.js, Git, TailwindCSS and JAVA.</h3>
 <h1>Projcts: </h1>
 <a href="https://we-care-com-by-awaneesh-soni.vercel.app/" >WeCare.com</a>
 <h6><p>This is the best website I have ever made. It allows you to wish someone on WhatsApp on special occasions. It uses React useEffect, React Router, useState, and more concepts. More importantly, I use a very rare react module, react-share, to add the WhatsApp messaging feature. </p></h6>
