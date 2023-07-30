@@ -1,8 +1,8 @@
 <h1> 👋 Hi, I’m @AwaneeshSoni</h1>
 <hr>
--<h6>👀 I’m interested in Coding </h6>
-<h6>🌱 I’m currently programming. </h6>
-<h6> 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a>  </h6>
+<h6>👀 I’m in love with Coding </h6>
+<h6>Learning and Doing things on my own</h6>h6>
+<!-- <h6> 🎬 Checkout my <a href="https://www.youtube.com/channel/UCI9fThK_l7Ovs0ZBEI7V3Ig">YouTube Channel</a>  </h6> -->
 <h6> Also checkout  my <a href="https://twitter.com/Awaneesh_Soni"> Twitter</a>  </h6>
 <h6> My Tech Stacks are </h6> <h3> HTML, CSS, JAVASCRIPT, React.js, Node.js, Express.js, Git, TailwindCSS and JAVA.</h3>
 <h1>Projcts: </h1>
